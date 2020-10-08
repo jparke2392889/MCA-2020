@@ -9,4 +9,4 @@ my initial thoughts for this project is to use a genre. I believe that using Roc
 The genre of Rock is slightly subjective currently, however, on free music archive there are thousands of samples of music placed within their description of "Rock"
 This gives me access to metadata within the acoustic and desctiptive data section and helps for later comparisons within the music.
 
-week 3 project(jparke2392889.github.io/MCA-2020/verovio.html)
+week 3 project {jparke2392889.github.io/MCA-2020/verovio.html}
