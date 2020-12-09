@@ -1,4 +1,4 @@
-# MCA-2020
+# Links
 
 <p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/Week%201.md">week 1</a> </p>
 <p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/week%202%20notation.mscz">week 2</a> </p>
