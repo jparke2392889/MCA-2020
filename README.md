@@ -1,6 +1,6 @@
 # MCA-2020
 
-<p> <a href="https://www.w3schools.com/">week 1</a> </p>
+<p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/Week%201.md">week 1</a> </p>
 <p> <a href="https://www.w3schools.com/">week 2</a> </p>
 <p> <a href="https://www.w3schools.com/">week 3</a> </p>
 <p> <a href="https://www.w3schools.com/">week 4</a> </p>
