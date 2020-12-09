@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<head>
+<title> What i thought was useful to show in the metadata </title>
+</head>
+
+<body>
+<h2> artist </h2>
+<h2> song name </h2>
+<h2> encoder </h2>
+<h2> release date </h2>
+
+
+<title xml:id="someone you loved">week 5 notation</title>
+                <respStmt>
+                    <persName xml:id="Lewis Capaldi" role"composer" authURI="https://www.wikidata.org/wiki/Q42315001" authority="wikidata">Lewis Capaldi</persName>
+                    <persName role="encoder"Jamie Parke</persName>
+         </titleStmt>
+        </respStmt>
+          <pubStmt>
+            <isodate> 2018 </isodate>
+        <respStmt>
+<corpName role="producer"> <authURI="https://www.wikidata.org/wiki/Q60768202" authority="wikidata"> TMS </corpName>
+          </pubStmt>
+        </respStmt>
+      </fileDesc>
+      <encodingDesc xml:id="encodingdesc-0000000150301898">
+         <appInfo xml:id="appinfo-0000000648089742">
+            <application xml:id="application-0000001804532594" isodate="2020-10-08T13:15:11" version="3.1.0-dev-13a71d9">
+               <name xml:id="name-0000001268119418">Verovio</name>
+               <p xml:id="p-0000000637343105">Transcoded from MusicXML</p>
