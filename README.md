@@ -8,5 +8,5 @@
 <p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/week%207">week 7</a> </p>
 <p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/week%208%20table.docx">week 8 table</a> </p>
 <p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/week%208%20graphs.png">week 8 Graphs</a> </p>
-<p> <a href="https://www.w3schools.com/">week 9</a> </p>
+<p> <a href="https://github.com/jparke2392889/MCA-2020/blob/master/week%209.docx">week 9</a> </p>
 <p> <a href="https://www.w3schools.com/">week 10</a> </p>
