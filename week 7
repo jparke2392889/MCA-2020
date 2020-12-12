@@ -7,6 +7,8 @@
   <script src="js/CETEI.js"></script>
 </head>
 <body>
+<h1> i simply could not get this to work </h1>
+<p> no matter how much different lines of code i changed, or after clearing the file and trying again, i could not get this code to work. </p>
   <div id="MEImeta"></div>
   <div id="app">Verovio is loading...</div>
   <script type="module">
