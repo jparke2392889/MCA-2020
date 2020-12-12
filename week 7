@@ -40,7 +40,7 @@
     var CETEI4MEI = new CETEI()
     CETEI4MEI.addBehaviors({
       namespaces: {
-        mei: "http://www.music-encoding.org/ns/mei"
+        mei: "https://jparke2392889.github.io/MCA-2020/verovio.html"
       }
     })
     CETEI4MEI.getHTML5("week 5 MEI file.mei", function(data) {
